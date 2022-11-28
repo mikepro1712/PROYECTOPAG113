@@ -1,0 +1,22 @@
+*{
+	background-color:blue;
+	margin:0;
+}
+h1{
+	text-align: center;
+	background-color: EE2525;
+	color:white;
+}
+h3{
+	color:white;
+}
+img
+{
+	width:50%;
+	height:60%;
+}
+p{
+	font-family:arial;
+	font-size:25px;
+	background-color:SkyBlue;
+}

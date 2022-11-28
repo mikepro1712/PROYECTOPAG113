@@ -1,0 +1,21 @@
+body{
+	background-color:38DADF;
+	font-family:arial;
+}
+h1{
+	background-color:red;
+	color:white;
+	text-align:center;
+}
+h3{
+	color:white;
+	background-color:red;
+}
+p{
+	font-size:25px;
+	background-color:26DF1D;
+}	
+iframe{
+	width:60%;
+	height:60%;
+}
